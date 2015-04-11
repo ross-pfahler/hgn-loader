@@ -1,5 +1,5 @@
 {
-  "name": "mustache-loader",
+  "name": "hgn-loader",
   "version": "0.3.0",
   "description": "Mustache loader for webpack",
   "keywords": [
